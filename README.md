@@ -127,6 +127,7 @@ For those who love copy, paste and edit, these can be great headstarts.
 ### AI and ML in Flutter
 
 - [Google ML Kit](https://pub.dev/packages/google_ml_kit)
+- [Tensorflow Lite for Flutter](https://pub.dev/packages/tflite_flutter)
 
 ### Backend and Databases
 
@@ -165,6 +166,7 @@ For those who love copy, paste and edit, these can be great headstarts.
 - [GitHub Student Developer Pack](https://education.github.com/pack) (Comes with Free tools like Github Copilot and Free Domain Name from NameCheap among others)
 - [Google Cloud for Students](https://cloud.google.com/edu)
 - [AWS Educate](https://aws.amazon.com/education/awseducate/)
+- [Grow With Google](https://grow.google/intl/ssa-en/)
 
 ### RoadMap
 
