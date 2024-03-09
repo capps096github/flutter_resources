@@ -16,11 +16,13 @@ Flutter is powered by Dart, a language optimized for fast apps on any platform.
 1. (Optional) Learn Dart Programming Language first, if you are really totally new to programming. But if you know any programming language, like Java, Kotlin, you can skip this step.
 
     - [Dart Programming Language](https://dart.dev/guides)
-
+    - [Learn Dart Intro](https://docs.flutter.dev/resources/bootstrap-into-dart)
     - Take the [Dart Language Tour](https://dart.dev/language) to2 get a quick overview of Dart if you are already familiar with programming.
 
-2. [Install Flutter](https://docs.flutter.dev/get-started/install)
-3. [Frequently Asked Questions in Flutter](https://docs.flutter.dev/resources/faq)
+2. [Get Started With Flutter](https://docs.flutter.dev/get-started/learn-more)
+3. [Install Flutter](https://docs.flutter.dev/get-started/install)
+4. [Flutter Basics Intro](https://medium.com/@developerjamiu/introducing-flutter-the-basics-to-get-you-started-726c7fef6b49)
+5. [Frequently Asked Questions in Flutter](https://docs.flutter.dev/resources/faq)
 
 ## What next?
 
@@ -81,6 +83,7 @@ In this guide, I will be using VS Code as my primary IDE, since I use it alot fo
 ### Blogs
 
 - [CodeMagic](https://blog.codemagic.io/tags/flutter/)
+- [Code with Andrea](https://codewithandrea.com/tags/flutter/)
 - [Very Good Ventures](https://verygood.ventures/tags/flutter)
 - [FreeCodeCamp](https://www.freecodecamp.org/news/tag/flutter/)
 
@@ -169,7 +172,5 @@ For those who love copy, paste and edit, these can be great headstarts.
 
 ### Courses
 
-- (Free) [Flutter Crash Course by Nick Manning](https://fluttercrashcourse.seenickcode.com/)
-- (Free) [FreeCodeCamp Flutter Course on YouTube](https://www.youtube.com/watch?v=VPvVD8t02U8)
-- (Paid) [The Complete 2021 Flutter Development Bootcamp with Dart](https://appbrewery.com/p/flutter-development-bootcamp-with-dart), Built in collaboration with the Google Flutter team
+- [Courses Listed on the Official Flutter Website](https://docs.flutter.dev/resources/courses)
 - (Paid) [Code with Andrea](https://codewithandrea.com/courses/)
