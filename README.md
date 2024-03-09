@@ -38,17 +38,39 @@ This is where our resources come in. We have curated a list of resources that wi
 - [Zapp](https://zapp.run/)
 - [FlutLab](https://flutlab.io/)
 
+### Extensions for VS Code
+
+In this guide, I will be using VS Code as my primary IDE, since I use it alot for all my development work, but you can use any IDE or editor of your choice. (What I  Use)
+
+- [Dart](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code)
+- [Flutter](https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter)
+- [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
+- [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
+- [Github Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
+- [Github Copilot Chat](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat)
+- [Material Icons Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+- [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
+- [Flutter Snippets](https://marketplace.visualstudio.com/items?itemName=Nash.awesome-flutter-snippets)
+- [Flutter Riverpod Snippets](https://marketplace.visualstudio.com/items?itemName=robert-brunhage.flutter-riverpod-snippets)
+- [Dart Data Class Generator](https://marketplace.visualstudio.com/items?itemName=ricardo-emerson.dart-data-class-tools)
+- [Pubspec Assist](https://marketplace.visualstudio.com/items?itemName=jeroen-meijer.pubspec-assist)
+- [Peacock](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock)
+- [From Code With Andrea](https://codewithandrea.com/articles/vscode-shortcuts-extensions-settings-flutter-development/#vscode-extensions-for-flutter-development)
+
 ### Drag and Drop Flutter App Builder Tools
 
 - [FlutterFlow](https://flutterflow.io/)
-- [Supernova](https://supernova.io/)
-- [FlutLab](https://flutlab.io/)
 
 ### Quick Start Guides
 
-- Flutter gallery
-- Flutter codelabs
-- Flutter samples
+- [Flutter gallery](https://flutter-gallery-archive.web.app/)
+- [Flutter codelabs](https://docs.flutter.dev/codelabs)
+- [Flutter samples](https://flutter.github.io/samples/#)
+
+### Error Fixes and Troubleshooting
+
+- `settings.json` code for Flutter and Dart Quick Fixes in VS Code by [Code With Andrea](https://codewithandrea.com/articles/vscode-shortcuts-extensions-settings-flutter-development/#vscode-settings-for-flutter-development)
+- Get the Code for the Quick Fixes on [GitHub](https://gist.github.com/capps096github/01fc0336e88ad347d2a805bfe368a45f)
 
 ### Official Flutter Resources
 
@@ -60,7 +82,7 @@ This is where our resources come in. We have curated a list of resources that wi
 
 - [CodeMagic](https://blog.codemagic.io/tags/flutter/)
 - [Very Good Ventures](https://verygood.ventures/tags/flutter)
-- [FreeCodeCamp]()
+- [FreeCodeCamp](https://www.freecodecamp.org/news/tag/flutter/)
 
 ### Packages and Plugins
 
@@ -68,6 +90,10 @@ This is where our resources come in. We have curated a list of resources that wi
 - [Flutter Favorite Packages](https://pub.dev/packages?q=is%3Aflutter-favorite&sort=like)
 - [Flutter Gems](https://fluttergems.dev/)
 - [Top Flutter & Dart packages in 2023 by Very Good Ventures](https://verygood.ventures/blog/top-flutter-dart-packages)
+
+### Mobile Money Payments
+
+- [FlutterWave](https://pub.dev/packages/flutterwave_standard)
 
 ### Walkthroughs, Samples and Tutorials
 
@@ -78,13 +104,15 @@ This is where our resources come in. We have curated a list of resources that wi
 
 ### YouTube Channels
 
-- [The Flutter Way](https://www.youtube.com/c/TheFlutterWay)
-- [Official Flutter Channel](https://www.youtube.com/c/FlutterDev)
-- [Flutter Community](https://www.youtube.com/c/FlutterCommunity)
-- [Code With Andrea](https://www.youtube.com/c/CodeWithAndrea)
-- [Reso Coder](https://www.youtube.com/c/ResoCoder)
-- [Fireship](https://www.youtube.com/c/AngularFirebase)
-- [Flutter Explained](https://www.youtube.com/c/FlutterExplained)
+- [The Flutter Way](https://www.youtube.com/@TheFlutterWay)
+- [Official Flutter Channel](https://www.youtube.com/@flutterdev)
+- [Flutter Community](https://www.youtube.com/@FlutterCommunity)
+- [Code With Andrea](https://www.youtube.com/@CodeWithAndrea)
+- [Reso Coder](https://www.youtube.com/@ResoCoder)
+- [Fireship](https://www.youtube.com/@Fireship)
+- [Flutter Explained](https://www.youtube.com/@FlutterExplained)
+- [Flutter Mapp](https://www.youtube.com/@FlutterMapp)
+- [HeyFlutter](https://www.youtube.com/@HeyFlutter)
 
 ### Ready-made Flutter Apps
 
@@ -95,7 +123,7 @@ For those who love copy, paste and edit, these can be great headstarts.
 
 ### AI and ML in Flutter
 
-- [Firebase ML Kit]
+- [Google ML Kit](https://pub.dev/packages/google_ml_kit)
 
 ### Backend and Databases
 
@@ -106,11 +134,11 @@ For those who love copy, paste and edit, these can be great headstarts.
 
 ## Icons
 
-- Cupertino Icons Gallery
-- Material Icons Gallery
-- Font Awesome Icons Gallery
-- IconMonstr
-- Ionicons
+- [Cupertino Icons Gallery](https://cupertino-icons.web.app/)
+- [Material Icons Gallery](https://fonts.google.com/icons)
+- [Font Awesome Icons Gallery](https://fontawesome.com/icons)
+- [IconMonstr](https://iconmonstr.com/)
+- [Ionicons](https://ionic.io/ionicons)
 
 ### CI/CD (Continuous Integration / Continuous Delivery) with Flutter
 
@@ -121,9 +149,12 @@ For those who love copy, paste and edit, these can be great headstarts.
 
 ### Deployment to Web and Various App Stores
 
-- Flutter Docs
-- Play Store
-- App Store
+- [Google Play Store](https://developer.android.com/distribute)
+- [App Store](https://docs.flutter.dev/deployment/ios)
+- [Web](https://docs.flutter.dev/deployment/web)
+- [Flutter Deployment Docs](https://docs.flutter.dev/deployment)
+- Buy Domains from [NameCheap](https://www.namecheap.com/), Squarespace, Wix, Netlify
+- Host on [Firebase Hosting](https://firebase.google.com/docs/hosting/frameworks/flutter) and [Github Pages](https://pages.github.com/)
 
 ### Other Free Resources for Students
 
@@ -138,12 +169,7 @@ For those who love copy, paste and edit, these can be great headstarts.
 
 ### Courses
 
-- (Free) Flutter Bootcamp with Dart by Angela Yu on Udemy (Inbox If you want free access)
 - (Free) [Flutter Crash Course by Nick Manning](https://fluttercrashcourse.seenickcode.com/)
-- (Free) FreeCodeCamp you tube
-
-### Extensions for VS Code
-
-In this guide, I will be using VS Code as my primary IDE, since I use it alot for all my development work, but you can use any IDE or editor of your choice.
-
-- [From Code With Andrea](https://codewithandrea.com/articles/vscode-shortcuts-extensions-settings-flutter-development/#vscode-extensions-for-flutter-development)
+- (Free) [FreeCodeCamp Flutter Course on YouTube](https://www.youtube.com/watch?v=VPvVD8t02U8)
+- (Paid) [The Complete 2021 Flutter Development Bootcamp with Dart](https://appbrewery.com/p/flutter-development-bootcamp-with-dart), Built in collaboration with the Google Flutter team
+- (Paid) [Code with Andrea](https://codewithandrea.com/courses/)
