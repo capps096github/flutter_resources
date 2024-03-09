@@ -104,6 +104,14 @@ For those who love copy, paste and edit, these can be great headstarts.
 - [Supabase](https://supabase.com/docs/guides/getting-started/quickstarts/flutter)
 - [AWS Amplify](https://docs.amplify.aws/flutter/start/getting-started/introduction/)
 
+## Icons
+
+- Cupertino Icons Gallery
+- Material Icons Gallery
+- Font Awesome Icons Gallery
+- IconMonstr
+- Ionicons
+
 ### CI/CD (Continuous Integration / Continuous Delivery) with Flutter
 
 - [Official Flutter Docs about CI/CD](https://docs.flutter.dev/deployment/cd)
@@ -126,7 +134,7 @@ For those who love copy, paste and edit, these can be great headstarts.
 
 ### RoadMap
 
-- [Flutter Roadmap By]()
+- [Flutter Roadmap](https://github.com/capps096github/flutter_roadmap) by @olexale
 
 ### Courses
 
