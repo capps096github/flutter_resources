@@ -78,7 +78,7 @@ In this guide, I will be using VS Code as my primary IDE, since I use it alot fo
 
 - [Flutter Documentation](https://flutter.dev/docs)
 - [Flutter Books](https://docs.flutter.dev/resources/books)
--
+- [Learn Flutter (From Beginner to Expert)](https://flutter.dev/learn)
 
 ### Blogs
 
