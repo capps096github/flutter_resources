@@ -97,6 +97,7 @@ In this guide, I will be using VS Code as my primary IDE, since I use it alot fo
 ### Mobile Money Payments
 
 - [FlutterWave](https://pub.dev/packages/flutterwave_standard)
+- [Sign Up for FlutterWave](https://app.flutterwave.com/signup?referrals=RV2994925)
 
 ### Walkthroughs, Samples and Tutorials
 
