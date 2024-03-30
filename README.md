@@ -17,7 +17,7 @@ Flutter is powered by Dart, a language optimized for fast apps on any platform.
 
     - [Dart Programming Language](https://dart.dev/guides)
     - [Learn Dart Intro](https://docs.flutter.dev/resources/bootstrap-into-dart)
-    - Take the [Dart Language Tour](https://dart.dev/language) to2 get a quick overview of Dart if you are already familiar with programming.
+    - Take the [Dart Language Tour](https://dart.dev/language) to get a quick overview of Dart if you are already familiar with programming.
 
 2. [Get Started With Flutter](https://docs.flutter.dev/get-started/learn-more)
 3. [Install Flutter](https://docs.flutter.dev/get-started/install)
