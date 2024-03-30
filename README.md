@@ -137,7 +137,12 @@ For those who love copy, paste and edit, these can be great headstarts.
 - [Supabase](https://supabase.com/docs/guides/getting-started/quickstarts/flutter)
 - [AWS Amplify](https://docs.amplify.aws/flutter/start/getting-started/introduction/)
 
-## Icons
+### Local Databases
+- Hive
+- SQL
+- Isar
+
+### Icons
 
 - [Cupertino Icons Gallery](https://cupertino-icons.web.app/)
 - [Material Icons Gallery](https://fonts.google.com/icons)
